@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"name": "web_dev",
+			"path": "C:/Users/HP/Desktop/programming/web_dev"
+		},
+		{
+			"name": "portfolio",
+			"path": "."
+		},
+		{
+			"path": "../udacity-training"
+		}
+	],
+	"settings": {}
+}
